@@ -1,1 +1,1 @@
-# shiny-uk_petitions
+# Shiny app to view UK Petitions
